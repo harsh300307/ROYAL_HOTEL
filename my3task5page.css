@@ -1,0 +1,1093 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .box1 {
+    height: 70px;
+    width: 100%;
+    background-color: white;
+    position: fixed;
+    z-index: 1;
+  
+  }
+  
+  .crown {
+    float: left;
+    height: 70px;
+    width: 200px;
+    list-style: none;
+    margin-top: 20px;
+  }
+  
+  .a :hover {
+    color: #52c5fd;
+  }
+  
+  .a {
+  
+    float: right;
+    list-style: none;
+    margin-right: -40px;
+    margin-top: 25px;
+    margin-left: 30px;
+    padding-left: 30px;
+    text-decoration: none;
+  
+  
+  }
+  
+  .a a {
+    text-decoration: none;
+    color: black;
+  }
+  
+
+  .box2{
+    height: 470px;
+    width: 100%;
+    /* background-color: #52c5fd; */
+    background-image:url(../image/banner-2.jpg);
+    background-size:cover ;
+  }
+
+  
+ .rgba{
+  background-color: rgba(1, 1, 9, 0.632);
+  height: 470px;
+  position: relative;
+ }
+
+.Elements{
+  font-size: 50px;
+  color: white;
+  /* margin-left: 200px; */
+  margin-top: 200PX;
+position: absolute;
+padding-left: 580px;
+}
+
+.HomeElements{
+  font-size: 20px;
+  color: white;
+  margin-top: 260px;
+  position: absolute;
+  padding-left: 610px;
+}
+
+.box3{
+  height: 300px;
+  width: 100%;
+ 
+  margin-top: 50px;
+}
+
+.TextSample{
+  font-size: 30px;
+  color: black;
+  padding-top: 50px;
+  margin-left: 60px;
+}
+
+
+.content{
+  font-size: 20px;
+  color: black;
+  /* padding-top: 50px; */
+  margin-left: 10px;
+  margin-top: 20px;
+  text-align:left;
+}
+
+.simplebuttons{
+  font-size: 30px;
+  color: black;
+  margin-left: 35px;
+margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+.default{
+  font-size: 18px;
+  color:black ;
+padding-top: 10px;
+position: absolute;
+margin-left: 100px;
+} 
+
+ .box4{
+  height: 50px;
+  width: 100%;
+  margin-top: 20px;
+ }
+
+.box5{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(34, 122, 199);
+  border: 1px solid rgb(34, 122, 199);
+  margin-left: 170px;
+  color: white;
+}
+
+.primary{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+
+
+.box6{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: orange;
+  border: 1px solid orange;
+  margin-left: 20px;
+  color: white;
+  
+}
+
+
+.success{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+.box5:hover{
+  background-color: white; 
+  color: rgb(34, 122, 199);
+}
+
+.box6:hover{
+  background-color: white; 
+  color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+.box7{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(34, 53, 136);
+  border: 1px solid rgb(34, 53, 136);
+
+  margin-left: 20px;
+  color: white;
+  
+}
+
+.info{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box7:hover{
+  background-color: white; 
+  color: rgb(34, 53, 136);
+}
+
+
+
+
+
+
+
+.box8{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(237, 244, 12);
+  border: 1px solid rgb(237, 244, 12);
+  margin-left: 20px;
+  color: white;
+  
+}
+
+.warning{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box8:hover{
+  background-color: white; 
+  color:   rgb(237, 244, 12);
+}
+
+
+
+
+
+
+
+
+.box9{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(244, 12, 12);
+  border: 1px solid rgb(246, 6, 6);
+  margin-left: 20px;
+  color: white;
+  
+}
+
+.denger{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box9:hover{
+  background-color: white; 
+  color:   rgb(244, 12, 12);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.default{
+  font-size: 18px;
+  color:black ;
+padding-top: 10px;
+position: absolute;
+margin-left: 100px;
+} 
+
+ .box10{
+  height: 50px;
+  width: 100%;
+  margin-top: 20px;
+
+padding-top: 100px;
+position: absolute;
+ }
+
+.box11{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(34, 122, 199);
+  margin-left: 170px;
+  color: rgb(34, 122, 199);
+
+}
+
+.box11:hover{
+  background-color:rgb(34, 122, 199); ;
+  color:whitesmoke
+}
+.primaryy{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+
+
+.box12{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color:white;
+  border: 1px solid orange;
+  margin-left: 20px;
+  color: orange
+  
+}
+
+
+.successs{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+.box12:hover{
+  background-color:orange;
+  color:white
+}
+
+
+
+
+
+
+
+
+.box13{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(34, 53, 136);
+
+  margin-left: 20px;
+  color: rgb(34, 53, 136);
+  
+}
+
+.infoo{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box13:hover{
+  background-color: rgb(34, 53, 136);
+
+  color: white;
+ }
+
+
+
+
+
+
+
+.box14{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color:white;
+  border: 1px solid rgb(237, 244, 12);
+  margin-left: 20px;
+  color: rgb(237, 244, 12);
+  
+}
+
+.warningg{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box14:hover{
+  background-color:rgb(237, 244, 12);  
+  color:   white;
+}
+
+
+
+
+
+
+
+
+.box15{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: white;
+  border: 1px solid rgb(246, 6, 6);
+  margin-left: 20px;
+  color: red
+  
+}
+
+.dengerr{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box15:hover{
+  background-color:rgb(244, 12, 12); 
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.default{
+  font-size: 18px;
+  color:black ;
+padding-top: 10px;
+position: absolute;
+margin-left: 100px;
+} 
+
+
+.box16{
+  height: 50px;
+  width: 100%;
+  margin-top: 20px;
+
+padding-top: 220px;
+position: absolute;
+ }
+
+.box17{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(34, 122, 199);
+  border: 1px solid rgb(34, 122, 199);
+  margin-left: 170px;
+  color: white;
+}
+
+
+.box17:hover{
+  background-color: white; 
+  color: rgb(34, 122, 199);
+}
+.primaryyy{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+
+
+.box18  {
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: orange;
+  border: 1px solid orange;
+  margin-left: 20px;
+  color: white;
+  
+}
+
+
+.successss{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box18:hover{
+  background-color: white; 
+  color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+.box19{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(34, 53, 136);
+  border: 1px solid rgb(34, 53, 136);
+
+  margin-left: 20px;
+  color: white;
+  
+}
+
+.infooo{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box19:hover{
+  background-color: white; 
+  color: rgb(34, 53, 136);
+}
+
+
+
+
+
+
+
+.box20{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(237, 244, 12);
+  border: 1px solid rgb(237, 244, 12);
+  margin-left: 20px;
+  color: white;
+  
+}
+
+.warninggg{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box20:hover{
+  background-color: white; 
+  color:   rgb(237, 244, 12);
+}
+
+
+
+
+
+
+
+
+.box21{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(244, 12, 12);
+  border: 1px solid rgb(246, 6, 6);
+  margin-left: 20px;
+  color: white;
+  
+}
+
+.dengerrr{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box21:hover{
+  background-color: white; 
+  color:   rgb(244, 12, 12);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.default{
+  font-size: 18px;
+  color:black ;
+padding-top: 10px;
+position: absolute;
+margin-left: 100px;
+} 
+
+ .box22{
+  height: 50px;
+  width: 100%;
+  margin-top: 20px;
+
+padding-top: 100px;
+position: absolute;
+ }
+
+.box23{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(34, 122, 199);
+  margin-left: 170px;
+  color: rgb(34, 122, 199);
+
+}
+
+.box23:hover{
+  background-color:rgb(34, 122, 199); ;
+  color:whitesmoke
+}
+.primary3{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+
+
+.box24{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color:white;
+  border: 1px solid orange;
+  margin-left: 20px;
+  color: orange
+  
+}
+
+
+.success3{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+.box24:hover{
+  background-color:orange;
+  color:white
+}
+
+
+
+
+
+
+
+
+.box25{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(34, 53, 136);
+
+  margin-left: 20px;
+  color: rgb(34, 53, 136);
+  
+}
+
+.info3{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box25:hover{
+  background-color: rgb(34, 53, 136);
+
+  color: white;
+ }
+
+
+
+
+
+
+
+.box26{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color:white;
+  border: 1px solid rgb(237, 244, 12);
+  margin-left: 20px;
+  color: rgb(237, 244, 12);
+  
+}
+
+.warning3{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box26:hover{
+  background-color:rgb(237, 244, 12);  
+  color:   white;
+}
+
+
+
+
+
+
+
+
+.box27{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: white;
+  border: 1px solid rgb(246, 6, 6);
+  margin-left: 20px;
+  color: red
+  
+}
+
+.denger3{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box27:hover{
+  background-color:rgb(244, 12, 12); 
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.default{
+  font-size: 18px;
+  color:black ;
+padding-top: 10px;
+position: absolute;
+margin-left: 100px;
+} 
+
+
+.box28{
+  height: 50px;
+  width: 100%;
+  margin-top: 20px;
+
+padding-top: 100px;
+position: absolute;
+ }
+
+.box29{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(34, 122, 199);
+  border: 1px solid rgb(34, 122, 199);
+  margin-left: 170px;
+  color: white;
+}
+
+
+.box29:hover{
+  background-color: white; 
+  color: rgb(34, 122, 199);
+}
+.primary4{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+
+
+.box30  {
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: orange;
+  border: 1px solid orange;
+  margin-left: 20px;
+  color: white;
+  
+}
+
+
+.success4{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box30:hover{
+  background-color: white; 
+  color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+.box31{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(34, 53, 136);
+  border: 1px solid rgb(34, 53, 136);
+
+  margin-left: 20px;
+  color: white;
+  
+}
+
+.info4{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box31:hover{
+  background-color: white; 
+  color: rgb(34, 53, 136);
+}
+
+
+
+
+
+
+
+.box32{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(237, 244, 12);
+  border: 1px solid rgb(237, 244, 12);
+  margin-left: 20px;
+  color: white;
+  
+}
+
+.warning4{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box32:hover{
+  background-color: white; 
+  color:   rgb(237, 244, 12);
+}
+
+
+
+
+
+
+
+
+.box33{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(244, 12, 12);
+  border: 1px solid rgb(246, 6, 6);
+  margin-left: 20px;
+  color: white;
+  
+}
+
+.denger4{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box33:hover{
+  background-color: white; 
+  color:   rgb(244, 12, 12);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.default{
+  font-size: 18px;
+  color:black ;
+padding-top: 10px;
+position: absolute;
+margin-left: 100px;
+} 
+
+ .box34{
+  height: 50px;
+  width: 100%;
+  margin-top: 20px;
+
+padding-top: 100px;
+position: absolute;
+ }
+
+.box35{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(34, 122, 199);
+  margin-left: 170px;
+  color: rgb(34, 122, 199);
+
+}
+
+.box35:hover{
+  background-color:rgb(34, 122, 199); ;
+  color:whitesmoke
+}
+.primary5{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+
+
+.box36{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color:white;
+  border: 1px solid orange;
+  margin-left: 20px;
+  color: orange
+  
+}
+
+
+.success5{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+.box36:hover{
+  background-color:orange;
+  color:white
+}
+
+
+
+
+
+
+
+
+.box37{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(34, 53, 136);
+
+  margin-left: 20px;
+  color: rgb(34, 53, 136);
+  
+}
+
+.info5{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box37:hover{
+  background-color: rgb(34, 53, 136);
+
+  color: white;
+ }
+
+
+
+
+
+
+
+.box38{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color:white;
+  border: 1px solid rgb(237, 244, 12);
+  margin-left: 20px;
+  color: rgb(237, 244, 12);
+  
+}
+
+.warning5{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box38:hover{
+  background-color:rgb(237, 244, 12);  
+  color:   white;
+}
+
+
+
+
+
+
+
+
+.box39{
+  float: left;
+  height: 50px;
+  width: 150px;
+  background-color: white;
+  border: 1px solid rgb(246, 6, 6);
+  margin-left: 20px;
+  color: red
+  
+}
+
+.denger5{
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.box39:hover{
+  background-color:rgb(244, 12, 12); 
+  color: white;
+}
+
+
+
+
